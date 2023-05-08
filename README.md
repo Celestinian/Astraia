@@ -1,4 +1,4 @@
-#Astraia
+***Astraia***
 
 Astraia is an aggressive optimization adapter for the GPT-2 language model. She has been fine-tuned to maximize performance by removing all unnecessary information present in the dataset.
 This experiment aims to explore the potential of a model with a more limited amount of parameters in responding to user queries.
